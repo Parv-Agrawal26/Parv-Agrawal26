@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Parv Agarawal</h1>
+<h1 align="center">Hi 👋, I'm Parv Agrawal</h1>
 <h3 align="center">Student at GLA University || B-TECH(CSE) || JAVA || PYTHON || C || Learning Full Stack Web || Learning DSA</h3>
 <image align="right" alt ="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
