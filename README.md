@@ -1,31 +1,112 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Parv Agrawal</h1>
-<h3 align="center">JAVA || Web Developer || Mastering DSA || Engineering Student || B-TECH(CSE)</h3>
-<image align="right" alt ="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+# Hi, I'm Parv Agrawal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyotibhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="Parv-Agrawal26" /> </p>
+### Full-Stack Developer | MERN & Java | Backend-Focused
 
-- 🔭 I’m currently a Btech-CSE student at GLA University, Mathura
+I design and build scalable, production-ready web applications — with clean architecture, secure authentication, and real-world deployment. Currently focused on backend-heavy full-stack development while improving problem-solving through DSA.
 
-- 🌱 I’m a **Full-Stack Developer**
+📍 India  
+📫 Email: agrawalparv262004@gmail.com  
+🔗 Links: https://linktr.ee/parvagrawal
 
-- 💬 Ask me about **Tech, Web, DSA**
 
-- 📫 How to reach me **agrawalparv262004@gmail.com**
+---
 
-- 🔗 Visit my Linktree **https://linktr.ee/parvagrawal**
+## 🔥 Featured Projects (Live)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/parvagrawal26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parvagrawal26" height="30" width="40" /></a>
-<a href="https://www.instagram.com/parv_agrawal26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parv_agrawal26" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/parv26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jubi_2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/agrawalparv26201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/agrawalparv262004?csrf_token=9c72737abf6e8b22bbfb9c2244f9d0fd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="30" width="40" /></a>
-<a href="https://leetcode.com/parv_agrawal26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
-<a href="https://discord.gg/parv_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="parv_agrawal" height="30" width="40" /></a>
-</p>
+### 🏠 GharSaathi — Home Services Platform
+**MERN | Secure Auth | Role-Based Access | Cloudinary**
+A full-stack platform for booking household services.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Parv-Agrawal26&show_icons=true&locale=en&" alt="Parv-Agrawal26" /></p>
+- JWT + Refresh Token authentication  
+- Role-based authorization  
+- Protected APIs & secure CRUD  
+- Image upload via Cloudinary  
+- Deployed and production-ready  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Parv-Agrawal26&show_icons=true&locale=en" alt="Parv-Agrawal26" /></p>
+🔗 Live: https://gharsaathi-parv.vercel.app/  
+
+
+---
+
+### 💬 ChatterBox — Real-Time Chat App
+**MERN | Socket.IO | WebSockets | MongoDB**
+A real-time messaging application with authentication.
+
+- Instant messaging with Socket.IO  
+- Persistent chat storage  
+- Secure login & protected routes  
+- Clean UI experience  
+
+🔗 Live: https://chatterbox-parv.onrender.com/  
+
+
+---
+
+### 🏕️ YelpCamp — Campground Listing Platform
+**Node.js | Express | MongoDB | EJS**
+A full-stack listing platform with authentication & reviews.
+
+🔗 Live: https://yelpcamp-parv.onrender.com/  
+
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+Java • JavaScript • SQL • HTML • CSS  
+
+**Backend**
+Node.js • Express • MongoDB • REST APIs • JWT • Socket.IO  
+
+**Frontend**
+React.js • Redux Toolkit  
+
+**Tools & DevOps**
+Git • GitHub • Render • Vercel • Cloudinary • Agile (Scrum)
+
+
+---
+
+## 📈 Problem Solving
+
+I regularly practice DSA to stay sharp.
+
+- 280+ problems solved across LeetCode & GFG
+
+🔗 LeetCode: https://leetcode.com/parv_agrawal26/
+
+
+---
+
+## 👨‍💻 Experience
+
+**W3Elites Pvt. Ltd — Summer Industrial Training (2024)**  
+- Built full-stack MERN applications  
+- Integrated AI-driven features  
+- Followed Agile Scrum practices  
+- Worked on secure backend development
+
+
+---
+
+## 🎓 Education
+
+B.Tech — Computer Science Engineering  
+GLA University, Mathura  
+2022–2026
+
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn — https://www.linkedin.com/in/parvagrawal26/  
+GitHub — https://github.com/Parv-Agrawal26  
+
+
+---
+
+> ⚠️ Note: Source code for some projects is private to avoid plagiarism.  
+> It is available for review upon request.
+
